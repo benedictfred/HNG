@@ -19,5 +19,5 @@ const getCurrentTime_Day = function () {
     .join(":");
   day.textContent = days[now.getUTCDay()];
 };
-
+getCurrentTime_Day();
 setInterval(getCurrentTime_Day, 1000);
