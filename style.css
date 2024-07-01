@@ -37,9 +37,7 @@ img {
 section {
   margin: 2rem 0rem 0rem 1rem;
 }
-section > h2 {
-  text-align: center;
-}
+
 dt {
   margin-top: 1rem;
   font-weight: bold;
